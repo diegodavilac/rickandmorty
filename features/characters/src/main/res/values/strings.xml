@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="characters">Characters</string>
+    <string name="filters_show_results">Show results\n</string>
+    <string name="filters_clear">Clear Filters</string>
+    <string name="filters_title">Filters</string>
+</resources>
